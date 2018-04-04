@@ -7,6 +7,7 @@ An admin registers ie the HOD and Lecturers
 
 students neednt login
 
+Import the Timeman.zip into netbeans and the mtms int phpmyadmin
 admin details
 username:Evans
 passowrd:Lubeger
