@@ -14,8 +14,8 @@ passowrd:Lubeger
 
 HOD details
 username:Douglas
-passowrd:Lubeger
+password:Lubeger
 
 Lecturer details
 username:Aggie
-passowrd:Lubeger
+password:Lubeger
